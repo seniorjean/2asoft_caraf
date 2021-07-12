@@ -1,0 +1,28 @@
+#transfert_details{
+    width: 100% !important;
+    text-align: center;
+}
+.bg-info.fs-20{
+    background-color: lightskyblue !important;
+    font-size: 18px !important;
+    color:white !important;
+}
+
+.col-sm-6{
+    width:  49% !important;
+    text-align: center !important;
+    display: inline-block !important;
+}
+
+.row{
+    text-align: center !important;
+}
+
+.row .col-sm-6{
+    display: inline-block !important;
+    text-align: center !important;
+}
+
+.hide-print{
+    display: none !important;
+}
